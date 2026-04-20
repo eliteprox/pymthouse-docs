@@ -1,0 +1,11 @@
+{
+  "name": "pymthouse-docs",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "npx mintlify@latest dev",
+    "validate": "npx mintlify@latest validate"
+  }
+}
